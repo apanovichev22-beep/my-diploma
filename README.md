@@ -19,3 +19,6 @@
 ```bash
 git clone https://github.com/apanovichev22-beep/my-diploma.git
 cd my-diploma
+## 2. Установите зависимости
+```bash
+pip install -r requirements.txt
